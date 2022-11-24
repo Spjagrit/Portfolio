@@ -692,6 +692,10 @@ section{
         padding: 0 3%;
     }
 
+    .giphy-embed{
+        display: none;
+    }
+
 }
 
 @media (max-width:768px){
@@ -723,6 +727,10 @@ section{
 
     .contact .row form .inputBox input{
         width:100%;
+    }
+
+    .giphy-embed{
+        display: none;
     }
 
 }
